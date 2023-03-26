@@ -1,0 +1,38 @@
+h1{
+  text-align: center;
+}
+#web-design-development{
+  text-align: center;
+  background: pink;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 0px;
+  border-radius: 5px;
+  height: 265px;
+}
+#div-wdd{
+  padding-top: 20px;
+}
+#web-paragraph{
+  font-size: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#android-development{
+  text-align: center;
+  background: pink;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 0px;
+  border-radius: 5px;
+  height: 250px;
+  
+}
+#android-paragraph{
+  font-size: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#div-ad{
+  padding-top: 20px;
+}
